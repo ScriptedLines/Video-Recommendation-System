@@ -108,8 +108,6 @@ Then open: [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
 **Get Category-based Feed**
 `GET /feed?username=<username>&project_code=<project_code>`
 
-Supports optional `limit` parameter (default: 100).
-
 ### 🔐 Authorization Header
 
 All requests to Socialverse API use:
